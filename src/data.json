@@ -1,0 +1,120 @@
+{
+    "social": {
+        "email": "mahlorimanganyi6@gmail.com",
+        "github": "https://github.com/Mahlori412",
+        "twitter": "https://twitter.com/zdouble12",
+        "linkedIn": "https://www.linkedin.com/in/mahlori-manganyi-568a111bb/",
+        "instagram": "https://www.instagram.com/manganyimahlori/"
+    },
+    "education":[ {
+            "degree": "Full-Stack Developer Nanodegree",
+            "school": "ALX-T Udacity, Inc.",
+            "timeline": {"from": "Apr 2022", "to": "Aug 2022"},
+            "summary": "This nanodegree course extensively taught various technical skills needed to build database-backed APIs and web applications including:\n\n\t• SQL and Data Modelling for the Web\n\t• API Development and Documentation\n\t• Identity and Access Management\n\t• Server Deployment, Containerization and Testing\n\nFind the full syllabus here: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044"
+        }, {
+            "degree": "Full-Stack Web Development Fundamentals",
+            "school": "The Faculty of/The Directorate of Information and Communication Technology ",
+            "timeline": {"from": "Sept 2019", "to": "Feb 2020"},
+            "summary": "This course taught comprehensively various technical skills important in frontend web development and backend using python and postgresql. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+        }, {
+            "degree": "Dip. in Software Development",
+            "school": "Tswane University of Technology, South Africa.",
+            "timeline": {"from": "Jan 2015", "to": "Nov 2019 Theory Modules"},
+            "summary": "• Graduated in 2021 due to 1 year internship. \n\n• Relevant Coursework: Development Software IIA, Systems Software, Algorithms and Data Structures, Information Systems, Technical Programming, Development Software IIIB, Digital Computer Design, Database Management, Computer Networks, Information Theory & Coding, Industrial Exposure IIIA, Technical Communication."
+        }, {
+            "degree": "ALX SOftware Engineering",
+            "school": "The Faculty of/The Directorate of Information and Communication Technology ",
+            "timeline": {"from": "April 2022 Enrolling", "to": "Feb 2023"},
+            "summary": "This course taught comprehensively various technical skills important in frontend web development and backend using python and postgresql. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+        }
+    ], 
+    "work":[
+        {
+            "role": "Software Developer",
+            "location": "Johannesberg, Gauteng",
+            "company": "Epic Inventors",
+            "timeline": {"from": "July 2021", "to": "Present"},
+            "summary": "• Epic Invetors provide high quality and innovative solutions to the need of customers namely software development, web development, mobile application, cyber security, digital marketing and IT maintenance. \n • Responsible for the design, development, implementation and support of these innovative solutions. \n • Integrate the developed functionality and/or component into a fully functional system, also make database changes to enhance performance and facilitate new products and systems. "
+        }, 
+        {
+            "role": "Software Developer intern to Junior Full Stack Developer",
+            "location": "Pretoria, Gauteng",
+            "company": "Softcom Africa",
+            "timeline": {"from": "January 2020", "to": "January 2021"},
+            "summary": "• ICEP is a community engagement programme initiated by the informatics department of TUT. Their aim is to improve the conditions of the townships especially Soshanguve and all over Pretoria areas through the implementation and continual support of I.T solutions. ICEP assists the university by providing rapid system solutions to aid with impediments ebbing productivity.\n • I worked as an intern and Jr Software Developer responsible for the some of the web and mobile applications REST APIs, also analyzing, developing and testing. I was also exposed to Agile development(Scrum) which is an agile process framework for managing complex knowledge work.\n • As full stack developer we used programming languages such as PHP, Laravel, Nodejs, Angularjs, python, postgresql, MongoDB and many more.\n • Despite all the challenges it was a great opportunity to complete my work as intern and a Jr Software developer at ICEP as I gained more knowledge and new technical skills which I will be able to use in future using agile techniques and SCRUM methodologies."
+        }, {
+            "role": "Freelancer",
+            "location": "Johannesberg, Gauteng",
+            "company": "Freelancer",
+            "timeline": {"from": "2018", "to": "Present"},
+            "summary": "• Learning and developing web and mobile applications. Covering programming languages such as C#, python, php, Laravel, Nodejs, Angularjs, Django and Javascript and many more."
+        }
+    ],
+    "projects": {"icep-website":{
+        "name": "ICEP Website",
+        "description": "• ICEP is a community engagement program initiated by the informatics department of the Tshwane University of Technology(TUT). The main objective of the program is, amongst others, to assist students, who have completed all of their theoretical modules, obtain an internship. The internship exposes said students to industry experiences and operations.\n • Students are equipped with the latest industry technologies, tools, methodologies, frameworks, and systems to unlock their learning potential and make a smooth transition from varsity to the working world.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659350146/icep_s1tpcl.png",
+        "device_image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659350146/icep_s1tpcl.png",
+        "gif_url": "",
+        "live_url": "https://www.icep.co.za/",
+        "github_url": null
+    },
+    "anointedStokvelClub-website":{
+        "name": "AnointedStokvelClub",
+        "description": "• purpose is to connect people and change lives In a world where change is the only constant, our purpose is what defines us. This evokes pride, integrity and a need to succeed at all cost.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659351106/Screenshot_118_kkkbrb.png",
+        "gif_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659351106/Screenshot_118_kkkbrb.png",
+        "live_url": "https://anointedstokvelclub.com/",
+        "github_url": null
+    },
+    "fyyur-app":{
+        "name": "Fyyur app",
+        "description": "• Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner. This project involved building out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/Screenshot_120_ulbnhe.png",
+        "gif_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/Screenshot_120_ulbnhe.png",
+        "live_url": "",
+        "github_url": "https://github.com/Mahlori412/fyyur"
+    },
+    "trivia-app":{
+        "name": "Trivia app",
+        "description": "• Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/l_2_zmmwbf.png",
+        "device_image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/l_2_zmmwbf.png",
+        "gif_url": "",
+        "live_url": "",
+        "github_url": "https://github.com/Mahlori412/Trivia-app"
+    },
+    "the-coffee-shop":{
+        "name": "The Coffee Shop",
+        "description": "• full stack drink menu application. \n • Display graphics representing the ratios of ingredients in each drink.\n • Allow public users to view drink names and graphics. \n • Allow the shop managers to create new drinks and edit existing drinks. \n • Implementing authentication and authorization in Flask. \n • Implementing role-based control design patterns. \n • Applying software system risk and compliance principles",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/Screenshot_122_n_sa6ysk.png",
+        "gif_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659353166/Screenshot_122_n_sa6ysk.png",
+        "live_url": "",
+        "github_url": "https://github.com/Mahlori412/Coffee-Shop-Full-Stack"
+    },
+    "portfolio-v1":{
+        "name": "Portfolio",
+        "description": "Decided to work on a 1st version of my personal website. You could say this doubles as some sort of digital resumé. Built with ReactJS. Don’t forget to reach out!",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659357969/Screenshot_122_xfw4vo.png",
+        "device_image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659357969/Screenshot_122_xfw4vo.png",
+        "gif_url": "",
+        "live_url": "https://manganyimahlori.netlify.app/",
+        "github_url": "https://github.com/Mahlori412/My-Portfolio"
+    },
+    "declaration":{
+        "name": "Declation",
+        "description": "System to help student to register their devices such as laptop, fridge or any other device that has a serial number to ensure that they are known in TUT campuses.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659527520/Screenshot_126_rtuzyd.png",
+        "gif_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659527520/Screenshot_126_rtuzyd.png",
+        "live_url": "",
+        "github_url": ""
+    },
+    "epic-inventors":{
+        "name": "Epic Inventors",
+        "description": "We are innovatively driven by Software Development, Cyber Security, Web Development, Hosting, Digital Marketing and Maintenance & Support within all the sectors of ICT software industry.",
+        "image_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659528803/Screenshot_128_uik3rd.png",
+        "gif_url": "https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659528803/Screenshot_128_uik3rd.png",
+        "live_url": "",
+        "github_url": ""
+    }}
+}
