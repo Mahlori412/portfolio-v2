@@ -3,7 +3,7 @@ import "./App.css";
 import { Switch, Route, NavLink, useLocation, Link } from "react-router-dom";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import ReactGA from "react-ga";
-import logo from "./logos/logo6 white animated.svg";
+import logo from ".";
 import {
 	MenuIcon,
 	CloseCircleIcon,
@@ -115,16 +115,7 @@ function App() {
 		>
 			<div className="app__overlay"></div>
 			<header className="app__header">
-				<Link to="/">
-					<object
-						data={logo}
-						className="app__logo"
-						type="image/svg+xml"
-						aria-label="Mahlori Manganyi"
-						tabIndex="-1"
-						style={{ pointerEvents: "none" }}
-					/>
-				</Link>
+				
 				<button
 					aria-label="Open menu"
 					className="app__menu-btn"
