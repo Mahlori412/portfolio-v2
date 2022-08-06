@@ -23,9 +23,9 @@ import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 const banners = [
-	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659282765/IMG_20210611_121123_augwc6.jpg",
-	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659282769/IMG_20210611_122622_1_emquv5.jpg",
-	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659282770/IMG_20210611_122659_e4iu5x.jpg",
+	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659780593/IMG_20210611_121123-min_nvaefb.jpg",
+	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659780593/IMG_20210611_122659-min_e7ivbk.jpg",
+	"https://res.cloudinary.com/mahlori-portfolio/image/upload/v1659780593/IMG_20210611_122622_1-min_ndrpr1.jpg",
 	
 ];
 
